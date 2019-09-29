@@ -10,12 +10,12 @@ Geschreven door: TechClash
 - Plan van Aanpak	
 - Aanleiding	
 - Doelen	
-  Sprint 1: Initiatiefase	
-  Sprint 2: Definitiefase	
-  Sprint 3: Ontwerpfase	
-  Sprint 4: Voorbereidingsfase	
-  Sprint 5: Uitvoeringsfase	
-  Sprint 6: Nazorgfase	
+  - Sprint 1: Initiatiefase	
+  - Sprint 2: Definitiefase	
+  - Sprint 3: Ontwerpfase	
+  - Sprint 4: Voorbereidingsfase	
+  - Sprint 5: Uitvoeringsfase	
+  - Sprint 6: Nazorgfase	
 - Resultaat	
 - Afbakening	
   must-haves	
