@@ -43,30 +43,30 @@ Het doel is om een werkende “Tiny Whoop” variant te maken vanaf scratch.
 Hierbij ontwikkelen we onze eigen motoren, ESC’s, flight controller, zender, ontvanger, OSD en frame. Ondertussen leren wij de technieken die hiervoor nodig zijn te begrijpen.
 
 #### Doelen/Fasen:
-Sprint 1: Initiatiefase
+#### Sprint 1: Initiatiefase
 1.	Gesprekken voeren met drone-experts
 2.	Oriënteren op het onderwerp drones
 3.	Vaststellen Plan van Aanpak
 
-Sprint 2: Definitiefase
+#### Sprint 2: Definitiefase
 1.	Inventariseren wet- en regelgeving
 2.	Opstellen en bespreken Pakket van Eisen
 
-Sprint 3: Ontwerpfase
+#### Sprint 3: Ontwerpfase
 1.	Opstellen ideeëntabel
 2.	Kiezen optimale (deel)oplossingen
 3.	Bespreken voorstel met betrokkenen
 4.	Opstellen en bespreken ontwerp 
 5.	Vaststellen ontwerp 
 
-Sprint 4: Voorbereidingsfase
+#### Sprint 4: Voorbereidingsfase
 1.	Inventariseren bestaande componenten
 2.	Bestellen nieuw materiaal
 3.	Reserveren 3D-printer/draadsnijder/lasersnijder/CNC-machine
 4.	Reserveren dronekooi/testluchtruim
 5.	Besluit start uitvoeringsfase
 
-Sprint 5: Uitvoeringsfase
+#### Sprint 5: Uitvoeringsfase
 1.	Afstemmen werkzaamheden met betrokkenen
 2.	Maken (3D)-ontwerpen
 3.	Maken van (elektro)technisch schema’s
@@ -75,7 +75,7 @@ Sprint 5: Uitvoeringsfase
 6.	Testen drone inclusief testvlucht
 7.	Vastleggen testen met foto/video
 
-Sprint 6: Nazorgfase
+#### Sprint 6: Nazorgfase
 1.	Evalueren van de testen
 2.	Doen van verbetervoorstellen
 3.	Vullen van (digitale) werkmap
@@ -100,7 +100,7 @@ Sprint 6: Nazorgfase
 16.	Handige links.
 
 ### Afbakening
-must-haves
+#### must-haves
 1.	Voeding t.b.v. drone
 2.	De drone moet kunnen vliegen
 3.	De drone moet goed bevestigd zijn en volgens de voorschriften.
@@ -122,7 +122,7 @@ c.	Balans/zwaartepunt
 8.	Drone voldoet aan de nodige voorschriften.
 9.	Sensoren: gyroscoop, snelheidsmeter, spanningsmeter, enz.
 
-should-haves
+#### should-haves
 1.	Propeller beschermers.
 2.	Video’s met uitleg en interviews.
 3.	Bestellijst van materialen en onderdelen.
@@ -135,7 +135,7 @@ should-haves
 10.	Berekend Ecal.
 11.	Uittrimming drone.
 
-could-haves
+#### could-haves
 1.	On Screen Display (OSD); vliegtijd, spanning van de batterij, enz.
 2.	FPV bril of scherm.
 3.	Lijst van wet en regelgeving.
