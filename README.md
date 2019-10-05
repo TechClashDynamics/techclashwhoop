@@ -82,7 +82,7 @@ Hierbij ontwikkelen we onze eigen motoren, ESC’s, flight controller, zender, o
 4.	Afronden project
 
 ### Resultaat
-1.	Het eindresultaatl zal resulteren in de volgende onderdelen:
+1.	Het eindresultaat zal resulteren in de volgende onderdelen:
 2.	Een werkende TechClash Whoop die kan vliegen.
 3.	Een drone die voldoet aan de opgestelde Pakket van Eisen.
 4.	Een ontvanger voor op de drone die het signaal van de zender ontvangt.
